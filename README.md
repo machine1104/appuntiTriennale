@@ -3,6 +3,8 @@
 
 Se trovate errori negli appunti non fatevi problemi a notificarli aprendo una ***issue***
 
+Gli appunti sono gratuiti, ma non rifiuto donazioni https://paypal.me/machine1104
+
 
 `
 NOTA: Non tutti gli appunti sono utili a passare l'esame.
