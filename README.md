@@ -3,7 +3,12 @@
 
 Se trovate errori negli appunti non fatevi problemi a notificarli aprendo una ***issue***
 
-Gli appunti sono gratuiti, ma non rifiuto donazioni https://paypal.me/machine1104
+Gli appunti sono gratuiti, ma non rifiuto donazioni:
+
+| PAYPAL        | BITCOIN           | ETHEREUM        |
+| ------------- |:-------------:|:-----:|
+| https://paypal.me/machine1104      | ![btc-qr](https://i.imgur.com/YNKnDBKm.png) | ![eth-qr](https://i.imgur.com/i1jojCfm.png) |
+
 
 
 `
