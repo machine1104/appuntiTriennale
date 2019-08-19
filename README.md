@@ -7,7 +7,7 @@ Gli appunti sono gratuiti, ma non rifiuto donazioni:
 
 | PAYPAL        | BITCOIN           | ETHEREUM        |
 | ------------- |:-------------:|:-----:|
-| https://paypal.me/machine1104      | ![btc-qr](https://i.imgur.com/YNKnDBKm.png) | ![eth-qr](https://i.imgur.com/i1jojCfm.png) |
+| ![pp-qr](https://i.imgur.com/8dygmUn.png) | ![btc-qr](https://i.imgur.com/YNKnDBKm.png) | ![eth-qr](https://i.imgur.com/i1jojCfm.png) |
 
 
 
