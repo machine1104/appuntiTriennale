@@ -9,7 +9,8 @@ Gli appunti sono gratuiti, ma non rifiuto donazioni:
 | ------------- |:-------------:|:-----:|
 | ![pp-qr](https://i.imgur.com/8dygmUnm.png) | ![btc-qr](https://i.imgur.com/YNKnDBKm.png) | ![eth-qr](https://i.imgur.com/i1jojCfm.png) |
 
-
+**Donators**
+- Valerio Giacomini
 
 `
 NOTA: Non tutti gli appunti sono utili a passare l'esame.
